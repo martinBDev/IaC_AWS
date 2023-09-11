@@ -1,0 +1,14 @@
+#cloud-config
+
+runcmd:
+  - sudo yum install -y mariadb-server
+  - sudo yum update -y
+  - sudo yum upgrade -y
+  - sudo systemctl start mariadb
+  - sudo systemctl enable mariadb
+  - |
+    sudo mysql <<EOF
+    CREATE USER 'admin'@'%' IDENTIFIED BY 'adminpassword';
+    GRANT ALL PRIVILEGES ON * . * TO 'admin'@'%';
+    FLUSH PRIVILEGES;
+    EOF

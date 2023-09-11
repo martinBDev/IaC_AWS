@@ -1,0 +1,8 @@
+#cloud-config
+packages:
+  - httpd
+  - mariadb
+runcmd:
+  - systemctl start httpd
+  - sudo systemctl enable httpd
+
