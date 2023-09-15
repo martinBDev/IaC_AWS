@@ -1,6 +1,6 @@
 
 # AWS Infrastructure as Code (IaC)
-In this repo will store several AWS Architectures or Patterns implemented as IaC, for the sake of practicing my IaC capabilities. For each small project, two solutions will be implemented: one using Terraform and another one with AWS CDK (for Typescript).
+This repo will store several AWS Architectures or Patterns implemented as IaC, for the sake of practicing my IaC capabilities. For each small project, two solutions will be implemented: one using Terraform and another one with AWS CDK (for Typescript).
  
  
  <img src="https://scalefactory.com/blog/2021/04/30/hashicorp-terraform-release-key-rotation/Terraform.png" alt="Terraform Logo" width="200"/> <img src="https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2021/01/15/cdk-logo6-1260x476.png" alt="AWS CDK Logo" width="350"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TS Logo" width="150"/>
