@@ -11,4 +11,4 @@ As it is an static website, we can deploy the web to an S3 bucket and enable web
 ## Diagram
 As the diagram is quite simple, we will use the diagram provided by AWS Cloud Quest:
 
-[<img src="https://github.com/martinBDev/IaC_AWS/blob/main/static_web_hosting/plan1.png" alt="Plan" width="900"/>](https://github.com/martinBDev/IaC_AWS/blob/main/static_web_hosting/plan1.png)
+[<img src="https://github.com/martinBDev/IaC_AWS/blob/main/static_web_hosting/plan1.png" alt="Plan" width="500"/>](https://github.com/martinBDev/IaC_AWS/blob/main/static_web_hosting/plan1.png)
