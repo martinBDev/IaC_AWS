@@ -23,4 +23,5 @@ For each folder in this repo you will find:
 
 All this exercises are based on [AWS Cloud Quest: Cloud Practitioner](https://pages.awscloud.com/global_traincert_twitch-cloud-quest-CP.html) certification.
  By the way, i'm certified:
+ 
 [<img src="https://images.credly.com/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="Badge" width="250"/>](https://www.credly.com/badges/6a20699d-5c86-4f4b-ad0c-cb36d47554fe/public_url)
