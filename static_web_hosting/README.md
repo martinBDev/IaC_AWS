@@ -9,6 +9,5 @@ Los Angeles' town hall has asked us to migrate the website to the cloud, so it c
 As it is an static website, we can deploy the web to an S3 bucket and enable website hosting, so anyone can access the webpage and chack sea levels and waves sizes.
 
 ## Diagram
-As the diagram is quite simple, we will use the diagram provided by AWS Cloud Quest:
-
+In the following diagram we can see how simple this deployment is:
 [<img src="https://github.com/martinBDev/IaC_AWS/blob/main/static_web_hosting/Plan.png" alt="Plan" width="500"/>](https://github.com/martinBDev/IaC_AWS/blob/main/static_web_hosting/Plan.png)
