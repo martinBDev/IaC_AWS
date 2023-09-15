@@ -11,7 +11,7 @@ export class ConnectingVPCsStack extends cdk.Stack {
     //create the three VPCs
     
     const marketingVPC = new ec2.Vpc(this, 'MarketingVPC', {
-      cidr: '10.10.0.0/16',
+      ipAddresses : ec2.IpAddresses.cidr('10.10.0.0/16'),
       maxAzs: 1,
       createInternetGateway: false,
       subnetConfiguration: [
