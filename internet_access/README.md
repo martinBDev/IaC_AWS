@@ -17,4 +17,5 @@ A route table will be in charge of redirecting the local traffic within the VPC 
 
 ## Diagram
 In the following diagram we can see how simple this deployment is:
+
 [<img src="https://github.com/martinBDev/IaC_AWS/blob/main/internet_access/Plan.png" alt="Plan" width="500"/>](https://github.com/martinBDev/IaC_AWS/blob/main/internet_access/Plan.png)
