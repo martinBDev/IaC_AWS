@@ -19,7 +19,7 @@ For each folder in this repo you will find:
 | [Static Web Hosting using S3 Buckets](https://github.com/martinBDev/IaC_AWS/tree/main/static_web_hosting) | :white_check_mark:Done|:white_check_mark:Done| :white_check_mark:Done|
 | [EC2 instances deployed in different AZs within same region](https://github.com/martinBDev/IaC_AWS/tree/main/ec2_different_azs) | :white_check_mark:Done|:white_check_mark:Done|:white_check_mark:Done|
 | [Web and DB servers. Provisioning and isolation](https://github.com/martinBDev/IaC_AWS/tree/main/internet_access) | :white_check_mark:Done|:white_check_mark:Done|:white_check_mark:Done|
-| [Peer Connectio between several VPCs](https://github.com/martinBDev/IaC_AWS/tree/main/connecting_vpcs) |  :hammer_and_wrench:Working on it...|:white_check_mark:Done|:white_check_mark:Done|
+| [Peer Connectio between several VPCs](https://github.com/martinBDev/IaC_AWS/tree/main/connecting_vpcs) |  :white_check_mark:Done|:white_check_mark:Done|:white_check_mark:Done|
 
 All this exercises are based on [AWS Cloud Quest: Cloud Practitioner](https://pages.awscloud.com/global_traincert_twitch-cloud-quest-CP.html) certification.
  By the way, i'm certified:
