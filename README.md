@@ -20,7 +20,7 @@ For each folder in this repo you will find:
 | [EC2 instances deployed in different AZs within same region](https://github.com/martinBDev/IaC_AWS/tree/main/ec2_different_azs) | :white_check_mark:Done|:white_check_mark:Done|:white_check_mark:Done|
 | [Web and DB servers. Provisioning and isolation](https://github.com/martinBDev/IaC_AWS/tree/main/internet_access) | :white_check_mark:Done|:white_check_mark:Done|:white_check_mark:Done|
 | [Peer Connectio between several VPCs](https://github.com/martinBDev/IaC_AWS/tree/main/connecting_vpcs) |  :white_check_mark:Done|:white_check_mark:Done|:white_check_mark:Done|
-| [RDS With Standby and Read Replica](https://github.com/martinBDev/IaC_AWS/tree/main/rds_with_replicas) |  :hammer_and_wrench:Working on it...|:hammer_and_wrench:Working on it...|:hammer_and_wrench:Working on it...|
+| [RDS With Standby and Read Replica](https://github.com/martinBDev/IaC_AWS/tree/main/rds_with_replicas) |  :hammer_and_wrench:Working on it...|:hammer_and_wrench:Working on it...|:white_check_mark:Done|
 | [IAM Roles for Support Engineering Team](https://github.com/martinBDev/IaC_AWS/tree/main/iam_support_team) |  :hammer_and_wrench:Working on it...|:hammer_and_wrench:Working on it...|:hammer_and_wrench:Working on it...|
 
 All this exercises are based on [AWS Cloud Quest: Cloud Practitioner](https://pages.awscloud.com/global_traincert_twitch-cloud-quest-CP.html) certification.
