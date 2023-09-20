@@ -11,22 +11,12 @@ export class CdkStack extends cdk.Stack {
       maxAzs: 3,
       createInternetGateway: true,
       ipAddresses: ec2.IpAddresses.cidr('10.0.0.0/16'),
-      subnetConfiguration: [
-        {
-          name: 'public',
-          cidrMask: 24,
-          subnetType: ec2.SubnetType.PUBLIC,
-        },
-        {
-          name: 'private',
-          cidrMask: 24,
-          subnetType: ec2.SubnetType.PRIVATE_WITH_EGRESS,
-        },
-      ],
     });
 
     const rds_instance = new rds.DatabaseInstance(this, 'rds-instance', {
-      engine: rds.DatabaseInstanceEngine.MYSQL,
+      engine: rds.DatabaseInstanceEngine.mysql({
+        version: rds.MysqlEngineVersion.VER_8_0_34,
+      }),
       vpc: rds_vpc,
       //Do not specify credentials directly in code
       credentials: rds.Credentials.fromPassword("admin", cdk.SecretValue.unsafePlainText("admin")),
