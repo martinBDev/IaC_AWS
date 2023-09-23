@@ -22,10 +22,10 @@ For each folder in this repo you will find:
 | [Peer Connectio between several VPCs](https://github.com/martinBDev/IaC_AWS/tree/main/connecting_vpcs) |  :white_check_mark:Done|:white_check_mark:Done|:white_check_mark:Done|
 | [RDS With Standby and Read Replica](https://github.com/martinBDev/IaC_AWS/tree/main/rds_with_replicas) |  :white_check_mark:Done|:white_check_mark:Done|:white_check_mark:Done|
 | [IAM Roles for Support Engineering Team](https://github.com/martinBDev/IaC_AWS/tree/main/iam_support_team) |  :hammer_and_wrench:Working on it...|:hammer_and_wrench:Working on it...|:white_check_mark:Done|
-| [File System in the Cloud using Amazon EFS](https://github.com/martinBDev/IaC_AWS/tree/main/efs_cloud) |  :hammer_and_wrench:Working on it...|:hammer_and_wrench:Working on it...|:white_check_mark:Done|
-| [Creating and Querying an Amazon DynamoDB Table](https://github.com/martinBDev/IaC_AWS/tree/main/dynamo_creation) |  :hammer_and_wrench:Working on it...|:hammer_and_wrench:Working on it...|:white_check_mark:Done|
-| [Configuring EC2 Auto Scaling Groups](https://github.com/martinBDev/IaC_AWS/tree/main/ec2_auto_scaling) |  :hammer_and_wrench:Working on it...|:hammer_and_wrench:Working on it...|:white_check_mark:Done|
-| [Implementing Highly Available Web Applicaionts](https://github.com/martinBDev/IaC_AWS/tree/main/highly_av_webapp) |  :hammer_and_wrench:Working on it...|:hammer_and_wrench:Working on it...|:white_check_mark:Done|
+| [File System in the Cloud using Amazon EFS](https://github.com/martinBDev/IaC_AWS/tree/main/efs_cloud) |  :hammer_and_wrench:Working on it...|:hammer_and_wrench:Working on it...|:hammer_and_wrench:Working on it...|
+| [Creating and Querying an Amazon DynamoDB Table](https://github.com/martinBDev/IaC_AWS/tree/main/dynamo_creation) |  :hammer_and_wrench:Working on it...|:hammer_and_wrench:Working on it...|:hammer_and_wrench:Working on it...|
+| [Configuring EC2 Auto Scaling Groups](https://github.com/martinBDev/IaC_AWS/tree/main/ec2_auto_scaling) |  :hammer_and_wrench:Working on it...|:hammer_and_wrench:Working on it...|:hammer_and_wrench:Working on it...|
+| [Implementing Highly Available Web Applicaionts](https://github.com/martinBDev/IaC_AWS/tree/main/highly_av_webapp) |  :hammer_and_wrench:Working on it...|:hammer_and_wrench:Working on it...|:hammer_and_wrench:Working on it...|
 
 
 
