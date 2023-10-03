@@ -1,7 +1,7 @@
 # File System in the Cloud using Amazon EFS
 
 ## Problem
-A pet modeling agency already have a web app deployed in three diferent AZs (EC2 instances). Every time they perform a change in any part of the code, they have to update that same file in the other machines. The want a solution so they only have to update once the code.
+A pet modeling agency already have a web app deployed in three diferent AZs (EC2 instances). Every time they perform a change in any part of the code, they have to update that same file in the other machines. The want a solution so they only have to update the code once per change.
 
 ## Solution
 As they already have three EC2 instances in differente AZs, it would be a good solution to set up Amazon Elastic File System and mount it in each instance, so the share the same file system.
