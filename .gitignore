@@ -41,3 +41,4 @@ cdk.out
 #diagrams
 *.drawio
 *.drawio.*
+*.pem
